@@ -1,0 +1,79 @@
+WordSmith Tools 4.0 -- 24/11/2018
+
+N	Overall	1	
+text file	Overall	dickens tale of 2 cities chapter one.txt	
+file size	5,857	5,857	
+tokens (running words) in text	1,024	1,024	
+tokens used for word list	1,023	1,023	
+types (distinct words)	483	483	
+type/token ratio (TTR)	47	47	
+standardised TTR	47.30	47.30	
+standardised TTR std.dev.			
+standardised TTR basis	1,000.00	1,000.00	
+mean word length (in characters)	5	5	
+word length std.dev.	2.42	2.42	
+sentences	21.00	21.00	
+  mean (in words)	49	49	
+  std.dev.	42.47	42.47	
+paragraphs	6.00	6.00	
+  mean (in words)	171	171	
+  std.dev.	97.42	97.42	
+headings			
+  mean (in words)	0	0	
+  std.dev.			
+sections	1.00	1.00	
+  mean (in words)	1,023	1,023	
+  std.dev.			
+numbers removed	1.00	1.00	
+stoplist tokens removed	0	0	
+stoplist types removed	0	0	
+1-letter words	25	25	
+2-letter words	181	181	
+3-letter words	232	232	
+4-letter words	174	174	
+5-letter words	117	117	
+6-letter words	81	81	
+7-letter words	84	84	
+8-letter words	46	46	
+9-letter words	35	35	
+10-letter words	22	22	
+11-letter words	18	18	
+12-letter words	4	4	
+13-letter words	2	2	
+14-letter words	2	2	
+15-letter words	0	0	
+16-letter words	0	0	
+17-letter words	0	0	
+18-letter words	0	0	
+19-letter words	0	0	
+20-letter words	0	0	
+21-letter words	0	0	
+22-letter words	0	0	
+23-letter words	0	0	
+24-letter words	0	0	
+25-letter words	0	0	
+26-letter words	0	0	
+27-letter words	0	0	
+28-letter words	0	0	
+29-letter words	0	0	
+30-letter words	0	0	
+31-letter words	0	0	
+32-letter words	0	0	
+33-letter words	0	0	
+34-letter words	0	0	
+35-letter words	0	0	
+36-letter words	0	0	
+37-letter words	0	0	
+38-letter words	0	0	
+39-letter words	0	0	
+40-letter words	0	0	
+41-letter words	0	0	
+42-letter words	0	0	
+43-letter words	0	0	
+44-letter words	0	0	
+45-letter words	0	0	
+46-letter words	0	0	
+47-letter words	0	0	
+48-letter words	0	0	
+49-letter words	0	0	
+50-letter words	0	0	
