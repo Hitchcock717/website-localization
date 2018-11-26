@@ -1,0 +1,1985 @@
+<html>
+  <head>
+    <title>extract_terms</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  </head>
+  <body>
+    <table>
+      <thead><tr><th>Term</th><th>Score</th><th>Freq</th><th>Ref freq</th></tr></thead>
+      <tbody>
+      <tr>
+        <td>credit limit</td>
+        <td>1046.870</td>
+        <td>13</td>
+        <td>143</td>
+      </tr>
+      <tr>
+        <td>federal student</td>
+        <td>890.360</td>
+        <td>11</td>
+        <td>141</td>
+      </tr>
+      <tr>
+        <td>private student</td>
+        <td>816.130</td>
+        <td>10</td>
+        <td>138</td>
+      </tr>
+      <tr>
+        <td>mortgage insurance</td>
+        <td>639.280</td>
+        <td>8</td>
+        <td>146</td>
+      </tr>
+      <tr>
+        <td>online log-in</td>
+        <td>516.400</td>
+        <td>4</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>purchase transaction</td>
+        <td>480.370</td>
+        <td>4</td>
+        <td>18</td>
+      </tr>
+      <tr>
+        <td>private student loan</td>
+        <td>448.650</td>
+        <td>4</td>
+        <td>36</td>
+      </tr>
+      <tr>
+        <td>current account</td>
+        <td>448.230</td>
+        <td>6</td>
+        <td>173</td>
+      </tr>
+      <tr>
+        <td>loan amount</td>
+        <td>406.560</td>
+        <td>6</td>
+        <td>215</td>
+      </tr>
+      <tr>
+        <td>personal loan</td>
+        <td>405.580</td>
+        <td>8</td>
+        <td>367</td>
+      </tr>
+      <tr>
+        <td>approved credit</td>
+        <td>387.550</td>
+        <td>3</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>approved credit limit</td>
+        <td>387.550</td>
+        <td>3</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>income proof</td>
+        <td>381.440</td>
+        <td>3</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>monthly principal</td>
+        <td>379.580</td>
+        <td>3</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>rate mortgage</td>
+        <td>360.360</td>
+        <td>4</td>
+        <td>103</td>
+      </tr>
+      <tr>
+        <td>additional financing</td>
+        <td>352.320</td>
+        <td>3</td>
+        <td>24</td>
+      </tr>
+      <tr>
+        <td>year term</td>
+        <td>352.010</td>
+        <td>4</td>
+        <td>111</td>
+      </tr>
+      <tr>
+        <td>price guarantee</td>
+        <td>341.750</td>
+        <td>3</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>price quote</td>
+        <td>315.850</td>
+        <td>3</td>
+        <td>54</td>
+      </tr>
+      <tr>
+        <td>provisional loan limit</td>
+        <td>258.700</td>
+        <td>2</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>provisional loan</td>
+        <td>258.700</td>
+        <td>2</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>45-day lock</td>
+        <td>258.700</td>
+        <td>2</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>other security information</td>
+        <td>257.670</td>
+        <td>2</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>60-day lock</td>
+        <td>257.670</td>
+        <td>2</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>free debt advice</td>
+        <td>256.640</td>
+        <td>2</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>demand note</td>
+        <td>253.380</td>
+        <td>2</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>fixed-rate loan</td>
+        <td>252.390</td>
+        <td>2</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>part-time program</td>
+        <td>250.430</td>
+        <td>2</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>free debt</td>
+        <td>247.320</td>
+        <td>2</td>
+        <td>11</td>
+      </tr>
+      <tr>
+        <td>single family</td>
+        <td>247.200</td>
+        <td>4</td>
+        <td>259</td>
+      </tr>
+      <tr>
+        <td>hazard insurance</td>
+        <td>241.550</td>
+        <td>2</td>
+        <td>17</td>
+      </tr>
+      <tr>
+        <td>repayment term</td>
+        <td>239.760</td>
+        <td>2</td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>understandable way</td>
+        <td>239.760</td>
+        <td>2</td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>fast approval</td>
+        <td>236.900</td>
+        <td>2</td>
+        <td>22</td>
+      </tr>
+      <tr>
+        <td>chinese version</td>
+        <td>230.570</td>
+        <td>2</td>
+        <td>29</td>
+      </tr>
+      <tr>
+        <td>debt advice</td>
+        <td>225.540</td>
+        <td>2</td>
+        <td>35</td>
+      </tr>
+      <tr>
+        <td>award letter</td>
+        <td>225.540</td>
+        <td>2</td>
+        <td>35</td>
+      </tr>
+      <tr>
+        <td>financial aid office</td>
+        <td>224.760</td>
+        <td>2</td>
+        <td>36</td>
+      </tr>
+      <tr>
+        <td>canadian citizen</td>
+        <td>223.980</td>
+        <td>2</td>
+        <td>37</td>
+      </tr>
+      <tr>
+        <td>loan limit</td>
+        <td>220.730</td>
+        <td>2</td>
+        <td>41</td>
+      </tr>
+      <tr>
+        <td>aid office</td>
+        <td>219.240</td>
+        <td>2</td>
+        <td>43</td>
+      </tr>
+      <tr>
+        <td>federal student aid</td>
+        <td>212.400</td>
+        <td>2</td>
+        <td>52</td>
+      </tr>
+      <tr>
+        <td>fixed-rate mortgage</td>
+        <td>212.400</td>
+        <td>2</td>
+        <td>52</td>
+      </tr>
+      <tr>
+        <td>credit reference</td>
+        <td>210.840</td>
+        <td>2</td>
+        <td>54</td>
+      </tr>
+      <tr>
+        <td>security information</td>
+        <td>210.150</td>
+        <td>2</td>
+        <td>55</td>
+      </tr>
+      <tr>
+        <td>professional degree</td>
+        <td>209.470</td>
+        <td>2</td>
+        <td>56</td>
+      </tr>
+      <tr>
+        <td>interest rate</td>
+        <td>202.660</td>
+        <td>15</td>
+        <td>2030</td>
+      </tr>
+      <tr>
+        <td>student loan</td>
+        <td>199.500</td>
+        <td>7</td>
+        <td>838</td>
+      </tr>
+      <tr>
+        <td>fraud prevention</td>
+        <td>195.390</td>
+        <td>2</td>
+        <td>77</td>
+      </tr>
+      <tr>
+        <td>student aid</td>
+        <td>191.770</td>
+        <td>2</td>
+        <td>83</td>
+      </tr>
+      <tr>
+        <td>financial aid</td>
+        <td>185.320</td>
+        <td>10</td>
+        <td>1416</td>
+      </tr>
+      <tr>
+        <td>other security</td>
+        <td>172.470</td>
+        <td>2</td>
+        <td>119</td>
+      </tr>
+      <tr>
+        <td>english version</td>
+        <td>153.900</td>
+        <td>2</td>
+        <td>162</td>
+      </tr>
+      <tr>
+        <td>mortgage loan</td>
+        <td>152.340</td>
+        <td>3</td>
+        <td>367</td>
+      </tr>
+      <tr>
+        <td>grace period</td>
+        <td>149.800</td>
+        <td>2</td>
+        <td>173</td>
+      </tr>
+      <tr>
+        <td>credit score</td>
+        <td>145.220</td>
+        <td>8</td>
+        <td>1451</td>
+      </tr>
+      <tr>
+        <td>checking accountfootnote2</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>eligible checking accountfootnote2</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>wwill act</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>important financial aid</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>needs-based aid</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>particular loan amount</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>easy application2</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>plc apply</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>one-time borrowing</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>estimated college</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>flexible consumer</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>mortgage loan contract</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>required minimum credit</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>tax demand</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>comparing eligibility</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>event of economic hardship</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>payment example</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>party fee</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>third party fee</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>credit footprint</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>eligible gift</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>12-month grace</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>full price guarantee</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>acceptable payment history</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>competitive loan interest</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>written confirmation letter</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>like-for-like unsecured loan</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>low-cost federal loan</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>unacceptable loan</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>borrowing need</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>one-time borrowing need</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>tax demand note</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>full privacy notice</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>number of flexible consumer</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>aid option</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>financial aid option</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>less-attractive option</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>top-up option</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>customized banking package</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>12-month grace period</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>american post-secondary</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>canadian graduate program</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>bank income proof</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>acceptable purpose</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>personal price quote</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>range of loan currency</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>wide range of loan currency</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>competitive loan interest rate</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>credit rating1</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>banking relationshipfootnote2</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>straight-line repayment</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>audited annual financial report</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>recent audited annual financial report</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>mortgage insurance requirement</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>eligible primary residence</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>permanent canadian resident</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>relationship rewardsfootnote2</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>post-graduation salary</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>american post-secondary school</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>required minimum credit score</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>active-duty servicemember</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>government pension statement</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>money straightaway</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>account straightaway2</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>current account straightaway2</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>credit-based student</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>repayment subject</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>straight-line repayment subject</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>remaining loan term</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>monthly thankyou</td>
+        <td>129.850</td>
+        <td>1</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>personal loan account</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>dedicated amount</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>maximum apr</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>aid availability</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>customized banking</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>easy budgeting</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>qualified certificate</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>eligible checking</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>enhanced credit</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>loan currency</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>federal student aid eligibility</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>repayment flexibility</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>early funding</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>easy processing</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>personal rate</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>consultant service</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>suspect someone</td>
+        <td>129.330</td>
+        <td>1</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>representative apr</td>
+        <td>128.820</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>total student loan debt</td>
+        <td>128.820</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>early estimate</td>
+        <td>128.820</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>canadian graduate</td>
+        <td>128.820</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>bank income</td>
+        <td>128.820</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>banking package</td>
+        <td>128.820</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>deferment period</td>
+        <td>128.820</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>pension statement</td>
+        <td>128.820</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>alternative student</td>
+        <td>128.820</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>monthly payment amount</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>total college</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>note date</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>homebuyer education</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>student aid eligibility</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>monthly mortgage insurance</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>go-to option</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>acceptable payment</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>lump sum payout</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>sum payout</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>personal price</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>bursary program</td>
+        <td>128.310</td>
+        <td>1</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>identity check</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>government form</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>monthly instalment</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>total credit limit</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>total student loan</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>competing offer</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>outstanding principal</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>canadian resident</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>informed view</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>federal work-study</td>
+        <td>127.800</td>
+        <td>1</td>
+        <td>4</td>
+      </tr>
+      <tr>
+        <td>loan disbursement</td>
+        <td>127.180</td>
+        <td>1</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>available loan</td>
+        <td>127.180</td>
+        <td>1</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>competitive loan</td>
+        <td>127.180</td>
+        <td>1</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>remaining loan</td>
+        <td>127.180</td>
+        <td>1</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>foreign passport</td>
+        <td>127.180</td>
+        <td>1</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>actual college</td>
+        <td>126.680</td>
+        <td>1</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>exceptional financial need</td>
+        <td>126.680</td>
+        <td>1</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>low-to-moderate income</td>
+        <td>126.190</td>
+        <td>1</td>
+        <td>7</td>
+      </tr>
+      <tr>
+        <td>jumbo mortgage</td>
+        <td>126.190</td>
+        <td>1</td>
+        <td>7</td>
+      </tr>
+      <tr>
+        <td>post-secondary school</td>
+        <td>126.190</td>
+        <td>1</td>
+        <td>7</td>
+      </tr>
+      <tr>
+        <td>minimum credit score</td>
+        <td>126.190</td>
+        <td>1</td>
+        <td>7</td>
+      </tr>
+      <tr>
+        <td>flexible financing</td>
+        <td>125.700</td>
+        <td>1</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <td>student loan program</td>
+        <td>125.220</td>
+        <td>1</td>
+        <td>9</td>
+      </tr>
+      <tr>
+        <td>approval time</td>
+        <td>125.220</td>
+        <td>1</td>
+        <td>9</td>
+      </tr>
+      <tr>
+        <td>loan contract</td>
+        <td>124.610</td>
+        <td>1</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>low down payment</td>
+        <td>124.610</td>
+        <td>1</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>annual financial report</td>
+        <td>124.610</td>
+        <td>1</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>insurance requirement</td>
+        <td>124.610</td>
+        <td>1</td>
+        <td>10</td>
+      </tr>
+      <tr>
+        <td>additional aid</td>
+        <td>124.140</td>
+        <td>1</td>
+        <td>11</td>
+      </tr>
+      <tr>
+        <td>particular loan</td>
+        <td>124.140</td>
+        <td>1</td>
+        <td>11</td>
+      </tr>
+      <tr>
+        <td>second loan</td>
+        <td>124.140</td>
+        <td>1</td>
+        <td>11</td>
+      </tr>
+      <tr>
+        <td>much documentation</td>
+        <td>123.670</td>
+        <td>1</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <td>studying medicine</td>
+        <td>123.670</td>
+        <td>1</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <td>financing option</td>
+        <td>123.670</td>
+        <td>1</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <td>payment term</td>
+        <td>123.670</td>
+        <td>1</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <td>adverse credit history</td>
+        <td>123.200</td>
+        <td>1</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <td>income range</td>
+        <td>123.200</td>
+        <td>1</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <td>high credit score</td>
+        <td>123.200</td>
+        <td>1</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <td>property type</td>
+        <td>123.200</td>
+        <td>1</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <td>freshman year of high school</td>
+        <td>123.200</td>
+        <td>1</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <td>maximum loan amount</td>
+        <td>122.730</td>
+        <td>1</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>financial gap</td>
+        <td>122.730</td>
+        <td>1</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>government pension</td>
+        <td>122.730</td>
+        <td>1</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>full privacy</td>
+        <td>122.730</td>
+        <td>1</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>total student</td>
+        <td>122.730</td>
+        <td>1</td>
+        <td>14</td>
+      </tr>
+      <tr>
+        <td>loan account</td>
+        <td>122.150</td>
+        <td>1</td>
+        <td>15</td>
+      </tr>
+      <tr>
+        <td>institutional aid</td>
+        <td>122.150</td>
+        <td>1</td>
+        <td>15</td>
+      </tr>
+      <tr>
+        <td>unsubsidized loan</td>
+        <td>121.240</td>
+        <td>1</td>
+        <td>17</td>
+      </tr>
+      <tr>
+        <td>specific school</td>
+        <td>120.790</td>
+        <td>1</td>
+        <td>18</td>
+      </tr>
+      <tr>
+        <td>credit approval</td>
+        <td>120.340</td>
+        <td>1</td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>current loan</td>
+        <td>120.340</td>
+        <td>1</td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>actual rate</td>
+        <td>120.340</td>
+        <td>1</td>
+        <td>19</td>
+      </tr>
+      <tr>
+        <td>loan interest rate</td>
+        <td>119.790</td>
+        <td>1</td>
+        <td>20</td>
+      </tr>
+      <tr>
+        <td>remaining term</td>
+        <td>119.790</td>
+        <td>1</td>
+        <td>20</td>
+      </tr>
+      <tr>
+        <td>mortgage insurance premium</td>
+        <td>119.350</td>
+        <td>1</td>
+        <td>21</td>
+      </tr>
+      <tr>
+        <td>other financial aid</td>
+        <td>118.910</td>
+        <td>1</td>
+        <td>22</td>
+      </tr>
+      <tr>
+        <td>specific dollar amount</td>
+        <td>118.910</td>
+        <td>1</td>
+        <td>22</td>
+      </tr>
+      <tr>
+        <td>written confirmation</td>
+        <td>118.910</td>
+        <td>1</td>
+        <td>22</td>
+      </tr>
+      <tr>
+        <td>existing loan</td>
+        <td>118.910</td>
+        <td>1</td>
+        <td>22</td>
+      </tr>
+      <tr>
+        <td>adverse credit</td>
+        <td>118.050</td>
+        <td>1</td>
+        <td>24</td>
+      </tr>
+      <tr>
+        <td>minimum credit</td>
+        <td>118.050</td>
+        <td>1</td>
+        <td>24</td>
+      </tr>
+      <tr>
+        <td>confirmation letter</td>
+        <td>118.050</td>
+        <td>1</td>
+        <td>24</td>
+      </tr>
+      <tr>
+        <td>tuition payment</td>
+        <td>117.510</td>
+        <td>1</td>
+        <td>25</td>
+      </tr>
+      <tr>
+        <td>loan request</td>
+        <td>117.510</td>
+        <td>1</td>
+        <td>25</td>
+      </tr>
+      <tr>
+        <td>early settlement</td>
+        <td>115.730</td>
+        <td>1</td>
+        <td>29</td>
+      </tr>
+      <tr>
+        <td>federal student loan</td>
+        <td>115.320</td>
+        <td>1</td>
+        <td>30</td>
+      </tr>
+      <tr>
+        <td>other interest</td>
+        <td>114.910</td>
+        <td>1</td>
+        <td>31</td>
+      </tr>
+      <tr>
+        <td>maximum loan</td>
+        <td>114.910</td>
+        <td>1</td>
+        <td>31</td>
+      </tr>
+      <tr>
+        <td>specific dollar</td>
+        <td>114.500</td>
+        <td>1</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>rate loan</td>
+        <td>114.500</td>
+        <td>1</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>repayment period</td>
+        <td>114.500</td>
+        <td>1</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>scholarship search</td>
+        <td>114.500</td>
+        <td>1</td>
+        <td>32</td>
+      </tr>
+      <tr>
+        <td>diploma program</td>
+        <td>114.100</td>
+        <td>1</td>
+        <td>33</td>
+      </tr>
+      <tr>
+        <td>total credit</td>
+        <td>113.600</td>
+        <td>1</td>
+        <td>34</td>
+      </tr>
+      <tr>
+        <td>money laundering</td>
+        <td>112.480</td>
+        <td>2</td>
+        <td>309</td>
+      </tr>
+      <tr>
+        <td>credit record</td>
+        <td>112.420</td>
+        <td>1</td>
+        <td>37</td>
+      </tr>
+      <tr>
+        <td>loan rate</td>
+        <td>111.550</td>
+        <td>1</td>
+        <td>39</td>
+      </tr>
+      <tr>
+        <td>financial need</td>
+        <td>110.270</td>
+        <td>2</td>
+        <td>320</td>
+      </tr>
+      <tr>
+        <td>financial aid award</td>
+        <td>110.040</td>
+        <td>1</td>
+        <td>43</td>
+      </tr>
+      <tr>
+        <td>credit history</td>
+        <td>109.570</td>
+        <td>3</td>
+        <td>603</td>
+      </tr>
+      <tr>
+        <td>aid award</td>
+        <td>108.120</td>
+        <td>1</td>
+        <td>48</td>
+      </tr>
+      <tr>
+        <td>savings account</td>
+        <td>107.670</td>
+        <td>1</td>
+        <td>49</td>
+      </tr>
+      <tr>
+        <td>high credit</td>
+        <td>106.960</td>
+        <td>1</td>
+        <td>51</td>
+      </tr>
+      <tr>
+        <td>moderate income</td>
+        <td>106.960</td>
+        <td>1</td>
+        <td>51</td>
+      </tr>
+      <tr>
+        <td>next school year</td>
+        <td>106.960</td>
+        <td>1</td>
+        <td>51</td>
+      </tr>
+      <tr>
+        <td>loan term</td>
+        <td>106.170</td>
+        <td>1</td>
+        <td>53</td>
+      </tr>
+      <tr>
+        <td>payment amount</td>
+        <td>105.830</td>
+        <td>1</td>
+        <td>54</td>
+      </tr>
+      <tr>
+        <td>federal loan</td>
+        <td>105.480</td>
+        <td>1</td>
+        <td>55</td>
+      </tr>
+      <tr>
+        <td>privacy notice</td>
+        <td>105.140</td>
+        <td>1</td>
+        <td>56</td>
+      </tr>
+      <tr>
+        <td>next school</td>
+        <td>103.710</td>
+        <td>1</td>
+        <td>60</td>
+      </tr>
+      <tr>
+        <td>school counselor</td>
+        <td>103.380</td>
+        <td>1</td>
+        <td>61</td>
+      </tr>
+      <tr>
+        <td>tax information</td>
+        <td>103.380</td>
+        <td>1</td>
+        <td>61</td>
+      </tr>
+      <tr>
+        <td>aid eligibility</td>
+        <td>102.000</td>
+        <td>1</td>
+        <td>65</td>
+      </tr>
+      <tr>
+        <td>county court</td>
+        <td>101.360</td>
+        <td>1</td>
+        <td>67</td>
+      </tr>
+      <tr>
+        <td>monthly payment</td>
+        <td>101.010</td>
+        <td>2</td>
+        <td>371</td>
+      </tr>
+      <tr>
+        <td>enrollment period</td>
+        <td>100.660</td>
+        <td>1</td>
+        <td>69</td>
+      </tr>
+      <tr>
+        <td>single unit</td>
+        <td>99.350</td>
+        <td>1</td>
+        <td>73</td>
+      </tr>
+      <tr>
+        <td>financial report</td>
+        <td>98.740</td>
+        <td>1</td>
+        <td>75</td>
+      </tr>
+      <tr>
+        <td>adjustable rate</td>
+        <td>98.440</td>
+        <td>1</td>
+        <td>76</td>
+      </tr>
+      <tr>
+        <td>state aid</td>
+        <td>97.480</td>
+        <td>1</td>
+        <td>79</td>
+      </tr>
+      <tr>
+        <td>principal amount</td>
+        <td>97.190</td>
+        <td>1</td>
+        <td>80</td>
+      </tr>
+      <tr>
+        <td>loan interest</td>
+        <td>97.190</td>
+        <td>1</td>
+        <td>80</td>
+      </tr>
+      <tr>
+        <td>economic hardship</td>
+        <td>95.970</td>
+        <td>1</td>
+        <td>84</td>
+      </tr>
+      <tr>
+        <td>payment history</td>
+        <td>94.500</td>
+        <td>1</td>
+        <td>89</td>
+      </tr>
+      <tr>
+        <td>lump sum</td>
+        <td>93.630</td>
+        <td>2</td>
+        <td>419</td>
+      </tr>
+      <tr>
+        <td>purchase agreement</td>
+        <td>92.550</td>
+        <td>1</td>
+        <td>96</td>
+      </tr>
+      <tr>
+        <td>personal situation</td>
+        <td>92.550</td>
+        <td>1</td>
+        <td>96</td>
+      </tr>
+      <tr>
+        <td>unsecured loan</td>
+        <td>91.960</td>
+        <td>1</td>
+        <td>98</td>
+      </tr>
+      <tr>
+        <td>confidential information</td>
+        <td>91.410</td>
+        <td>2</td>
+        <td>435</td>
+      </tr>
+      <tr>
+        <td>down payment</td>
+        <td>89.140</td>
+        <td>2</td>
+        <td>452</td>
+      </tr>
+      <tr>
+        <td>attending college</td>
+        <td>88.510</td>
+        <td>1</td>
+        <td>111</td>
+      </tr>
+      <tr>
+        <td>monthly mortgage</td>
+        <td>86.050</td>
+        <td>1</td>
+        <td>121</td>
+      </tr>
+      <tr>
+        <td>final approval</td>
+        <td>85.600</td>
+        <td>1</td>
+        <td>123</td>
+      </tr>
+      <tr>
+        <td>loan program</td>
+        <td>85.370</td>
+        <td>1</td>
+        <td>124</td>
+      </tr>
+      <tr>
+        <td>reference number</td>
+        <td>84.870</td>
+        <td>1</td>
+        <td>126</td>
+      </tr>
+      <tr>
+        <td>primary residence</td>
+        <td>84.210</td>
+        <td>1</td>
+        <td>129</td>
+      </tr>
+      <tr>
+        <td>additional money</td>
+        <td>82.810</td>
+        <td>1</td>
+        <td>135</td>
+      </tr>
+      <tr>
+        <td>income level</td>
+        <td>81.310</td>
+        <td>1</td>
+        <td>142</td>
+      </tr>
+      <tr>
+        <td>investment property</td>
+        <td>80.450</td>
+        <td>1</td>
+        <td>146</td>
+      </tr>
+      <tr>
+        <td>permanent resident</td>
+        <td>80.450</td>
+        <td>1</td>
+        <td>146</td>
+      </tr>
+      <tr>
+        <td>insurance premium</td>
+        <td>78.600</td>
+        <td>1</td>
+        <td>155</td>
+      </tr>
+      <tr>
+        <td>year of high school</td>
+        <td>78.410</td>
+        <td>1</td>
+        <td>156</td>
+      </tr>
+      <tr>
+        <td>own property</td>
+        <td>74.240</td>
+        <td>1</td>
+        <td>178</td>
+      </tr>
+      <tr>
+        <td>student loan debt</td>
+        <td>70.530</td>
+        <td>1</td>
+        <td>200</td>
+      </tr>
+      <tr>
+        <td>annual income</td>
+        <td>68.340</td>
+        <td>1</td>
+        <td>214</td>
+      </tr>
+      <tr>
+        <td>vacation home</td>
+        <td>67.740</td>
+        <td>1</td>
+        <td>218</td>
+      </tr>
+      <tr>
+        <td>application form</td>
+        <td>66.570</td>
+        <td>2</td>
+        <td>686</td>
+      </tr>
+      <tr>
+        <td>loan debt</td>
+        <td>66.280</td>
+        <td>1</td>
+        <td>228</td>
+      </tr>
+      <tr>
+        <td>dollar amount</td>
+        <td>64.890</td>
+        <td>1</td>
+        <td>238</td>
+      </tr>
+      <tr>
+        <td>foreign currency</td>
+        <td>64.630</td>
+        <td>1</td>
+        <td>240</td>
+      </tr>
+      <tr>
+        <td>credit check</td>
+        <td>62.280</td>
+        <td>1</td>
+        <td>258</td>
+      </tr>
+      <tr>
+        <td>minimum amount</td>
+        <td>62.010</td>
+        <td>1</td>
+        <td>260</td>
+      </tr>
+      <tr>
+        <td>full price</td>
+        <td>61.280</td>
+        <td>1</td>
+        <td>266</td>
+      </tr>
+      <tr>
+        <td>graduate program</td>
+        <td>61.050</td>
+        <td>1</td>
+        <td>268</td>
+      </tr>
+      <tr>
+        <td>freshman year</td>
+        <td>60.310</td>
+        <td>1</td>
+        <td>274</td>
+      </tr>
+      <tr>
+        <td>maximum amount</td>
+        <td>59.050</td>
+        <td>1</td>
+        <td>285</td>
+      </tr>
+      <tr>
+        <td>quality service</td>
+        <td>57.840</td>
+        <td>1</td>
+        <td>296</td>
+      </tr>
+      <tr>
+        <td>good option</td>
+        <td>50.060</td>
+        <td>1</td>
+        <td>379</td>
+      </tr>
+      <tr>
+        <td>home loan</td>
+        <td>42.010</td>
+        <td>1</td>
+        <td>497</td>
+      </tr>
+      <tr>
+        <td>high street</td>
+        <td>40.310</td>
+        <td>1</td>
+        <td>528</td>
+      </tr>
+      <tr>
+        <td>financial situation</td>
+        <td>39.790</td>
+        <td>1</td>
+        <td>538</td>
+      </tr>
+      <tr>
+        <td>total amount</td>
+        <td>36.710</td>
+        <td>1</td>
+        <td>603</td>
+      </tr>
+      <tr>
+        <td>credit rating</td>
+        <td>32.320</td>
+        <td>1</td>
+        <td>717</td>
+      </tr>
+      <tr>
+        <td>long period</td>
+        <td>32.290</td>
+        <td>1</td>
+        <td>718</td>
+      </tr>
+      <tr>
+        <td>total cost</td>
+        <td>31.730</td>
+        <td>1</td>
+        <td>735</td>
+      </tr>
+      <tr>
+        <td>difficult time</td>
+        <td>31.280</td>
+        <td>1</td>
+        <td>749</td>
+      </tr>
+      <tr>
+        <td>important information</td>
+        <td>30.030</td>
+        <td>1</td>
+        <td>790</td>
+      </tr>
+      <tr>
+        <td>short period</td>
+        <td>26.470</td>
+        <td>1</td>
+        <td>928</td>
+      </tr>
+      <tr>
+        <td>high level</td>
+        <td>24.360</td>
+        <td>2</td>
+        <td>2286</td>
+      </tr>
+      <tr>
+        <td>financial support</td>
+        <td>23.620</td>
+        <td>1</td>
+        <td>1069</td>
+      </tr>
+      <tr>
+        <td>other information</td>
+        <td>20.650</td>
+        <td>1</td>
+        <td>1257</td>
+      </tr>
+      <tr>
+        <td>school year</td>
+        <td>16.390</td>
+        <td>1</td>
+        <td>1645</td>
+      </tr>
+      <tr>
+        <td>family member</td>
+        <td>15.390</td>
+        <td>1</td>
+        <td>1768</td>
+      </tr>
+      <tr>
+        <td>federal government</td>
+        <td>15.070</td>
+        <td>2</td>
+        <td>3843</td>
+      </tr>
+      <tr>
+        <td>same day</td>
+        <td>14.790</td>
+        <td>1</td>
+        <td>1849</td>
+      </tr>
+      <tr>
+        <td>good way</td>
+        <td>13.550</td>
+        <td>1</td>
+        <td>2040</td>
+      </tr>
+      <tr>
+        <td>credit card</td>
+        <td>11.150</td>
+        <td>3</td>
+        <td>8025</td>
+      </tr>
+      <tr>
+        <td>personal information</td>
+        <td>10.600</td>
+        <td>2</td>
+        <td>5561</td>
+      </tr>
+      <tr>
+        <td>first year</td>
+        <td>9.410</td>
+        <td>1</td>
+        <td>3041</td>
+      </tr>
+      <tr>
+        <td>next day</td>
+        <td>7.400</td>
+        <td>1</td>
+        <td>3935</td>
+      </tr>
+      <tr>
+        <td>real estate</td>
+        <td>7.060</td>
+        <td>2</td>
+        <td>8469</td>
+      </tr>
+      <tr>
+        <td>third party</td>
+        <td>6.740</td>
+        <td>1</td>
+        <td>4340</td>
+      </tr>
+      <tr>
+        <td>high school</td>
+        <td>5.530</td>
+        <td>2</td>
+        <td>10876</td>
+      </tr>
+      <tr>
+        <td>wide range</td>
+        <td>5.260</td>
+        <td>1</td>
+        <td>5626</td>
+      </tr>
+      <tr>
+        <td>other hand</td>
+        <td>3.670</td>
+        <td>1</td>
+        <td>8170</td>
+      </tr>
+      </tbody>
+</table></body></html>
